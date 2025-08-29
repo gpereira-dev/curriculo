@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Currículo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        #header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        #profile-image {
+            max-width: 200px;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto;
+        }
+
+        #main-content {
+            padding: 20px;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <h1>Meu Currículo</h1>
+    </div>
+    <div id="main-content">
+        <h2>Dados Pessoais</h2>
+        <img id="profile-image" src="https://media.licdn.com/dms/image/v2/D4D03AQFfiwZox1FVPQ/profile-displayphoto-crop_800_800/B4DZh29bZuH4AM-/0/1754342472761?e=1759363200&v=beta&t=xMkbe3nZw5nUe2p-MQJn1AoD6AXH05WqCVuyTpctLNM" alt="Foto de Perfil">
+        <p>Nome: Gustavo Pereira</p>
+        <p>E-mail: gpereira.dev1@gmail.com</p>
+        <p>Telefone: (48) 9 9131-4471</p>
+
+        <h2>Experiência Profissional</h2>
+        <p>Cargo: Soldado</p>
+        <p>Empresa: Corpo de Bombeiros Militar</p>
+        <p>Descrição: Atuação em prevenção e combate a incêndios, atendimento pré-hospitalar, salvamentos diversos (urbanos, aquáticos e em altura), vistorias técnicas, ações de defesa civil e participação em treinamentos operacionais. Experiência com trabalho em equipe sob pressão, disciplina operacional e atendimento à população em situações de emergência.</p>
+        <p></p>
+        <p>Cargo: Advogado</p>
+        <p>Empresa: Ventura & Pereira Advogados Associados</p>
+        <p></p>
+        <p>Cargo Analista de Regra de Negócio</p>
+        <p>Empresa: IPM Sistemas</p>
+        <p>Descrição: Responsável por mapear, analisar e modelar regras de negócio a partir das necessidades operacionais e estratégicas da empresa e das necessidades dos clientes. Atuação em levantamento de requisitos com stakeholders, tradução de demandas de negócio em especificações técnicas, validação de processos e apoio à equipe de desenvolvimento de sistemas, além de atuar posteriormente no controle da qualidade do desenvolvimento.</p>
+
+        <h2>Formação Acadêmica</h2>
+        <p>Curso: Análise e Desenvolvimento de Sistemas</p>
+        <p>Instituição:Faculdade Municipal de Palhoça - FMP</p>
+        <p>Ano de Conclusão: 2027</p>
+        <p>Curso: Direito</p>
+        <p>Instituição: Universidade do Vale do Itajaí - UNIVALI</p>
+        <p>Ano de Conclusão: 2018</p>
+    </div>
+</body>
+
+</html>
